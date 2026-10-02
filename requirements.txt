@@ -1,0 +1,7 @@
+# EndoQuality AI - Python dependencies
+# Headless OpenCV avoids GUI libraries that a web app does not need.
+opencv-python-headless>=4.8
+numpy>=1.24
+Pillow>=10.0
+matplotlib>=3.7
+streamlit>=1.50

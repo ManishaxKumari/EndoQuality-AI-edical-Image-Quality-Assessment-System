@@ -1,0 +1,11 @@
+# Clean white + blue healthcare theme
+[theme]
+base = "light"
+primaryColor = "#1F5FAE"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F6FB"
+textColor = "#14263D"
+font = "sans serif"
+
+[server]
+maxUploadSize = 20
